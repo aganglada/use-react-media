@@ -8,6 +8,14 @@
 
 ⚡ SSR Ready
 
+## Install
+
+`npm i use-react-media`
+
+or
+
+`yarn add use-react-media`
+
 ## Basic Usage
 
 ```jsx
