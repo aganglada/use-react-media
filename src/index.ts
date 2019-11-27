@@ -1,3 +1,5 @@
-import useReactMedia from './useReactMedia'
+import useMedia from './useMedia'
 
-export default useReactMedia
+export { default as useMedia } from './useMedia'
+
+export default useMedia
