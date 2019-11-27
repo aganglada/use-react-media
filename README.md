@@ -1,6 +1,6 @@
 # use-react-media
 
-⚡ Just react-media with Hooks
+⚡ react-media with Hooks
 
 ⚡ Written in Typescript
 
