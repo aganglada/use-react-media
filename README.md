@@ -1,12 +1,12 @@
-# useReactMedia
+# use-react-media
 
-☑️ Just react-media with Hooks
+⚡ Just react-media with Hooks
 
-☑️ Written in Typescript
+⚡ Written in Typescript
 
-☑️ Just the code you need (330b minified)
+⚡ Just the code you need (330b minified)
 
-☑️ SSR Ready
+⚡ SSR Ready
 
 ## Install
 
